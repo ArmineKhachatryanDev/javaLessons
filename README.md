@@ -1,4 +1,4 @@
-# Single(Multi) Threaded Aplication Process
+# Single(Multi) Threaded Application Process
 
 # Thread Scheduling
 
