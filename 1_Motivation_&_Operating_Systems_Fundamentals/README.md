@@ -4,7 +4,7 @@
 
 
     
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/1.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/1.png)
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/2.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/2.png)
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/3.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/3.png)
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/4.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/4.png)
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/5.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/5.png)
 
 
 
@@ -81,7 +81,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/6.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/6.png)
 
 
 
@@ -96,7 +96,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/7.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/7.png)
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/8.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/8.png)
 
 
 
@@ -126,7 +126,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/9.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/9.png)
 
 
 
@@ -153,7 +153,7 @@
 
 
 
-![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/part1/2.png)
+![alt text](https://github.com/ArmineKhachatryanDev/threads/blob/master/1_Motivation_&_Operating_Systems_Fundamentals/2.png)
 
 
 
